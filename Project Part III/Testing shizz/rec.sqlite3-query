@@ -1,0 +1,9 @@
+-- database: ./data.db
+
+SELECT et.exhibit_id,t.tag_name,et.weight 
+FROM exhibit_tag as et
+INNER JOIN user_likes AS ul
+ON ul.exhibit_id = et.exhibit_id
+INNER JOIN tags as t
+ON et.tag_id = t.tag_id
+WHERE ul.usr_id = 0;
