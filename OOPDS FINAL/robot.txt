@@ -1,0 +1,18 @@
+M by N : 40 50
+steps: 100
+robots: 9
+RoboTank Yong 1 10 
+SniperBot Jason 20 30
+RoboCop Khong random random
+BlueThunder Jason random random
+Madbot Azhar 15 15 
+Terminator Shaqeel 19 4 
+UltimateRobot Tan 3 14 
+RoboCop Yijie random 2 20 
+BlueThunder Sim 4 13 
+
+
+
+
+
+
