@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Piece
+comment0.text=\n\ \ \ \ @author\ Wan\ Abdul\ Rahman\n\ \ \ \ This\ is\ an\ abstract\ class\ for\ other\ pieces\n\ \ \ \ it\ contains\ the\ basic\ attributes\ like\ positions\ and\ if\ its\ flipped.\n
+comment1.params=
+comment1.target=Piece()
+comment2.params=
+comment2.target=void\ targeted()
+comment3.params=
+comment3.target=void\ unTarget()
+comment4.params=
+comment4.target=void\ dead()
+comment5.params=BML
+comment5.target=void\ pieceMovement(BoardLogicModel)
+numComments=6

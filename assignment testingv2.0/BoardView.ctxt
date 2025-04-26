@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=BoardView
+comment0.text=\n\ Write\ a\ description\ of\ class\ BoardView\ here.\n\n\ @author\ Agilan\ a/l\ Khali\ Thasan\n\ This\ is\ the\ Board\ view\ it\ acts\ a\ component\ of\ view.\ this\ will\ handle\ a\ panel\ for\ the\ pieces\n\ positions\ and\ if\ they\ are\ alive/dead/move\ to\ a\ new\ tile\n\ \n
+comment1.params=cntrl\ BML\ view
+comment1.target=BoardView(Controller,\ BoardLogicModel,\ View)
+comment10.params=x\ y
+comment10.target=void\ resetTile(int,\ int)
+comment11.params=x\ y
+comment11.target=void\ clearTarget(int,\ int)
+comment2.params=BML
+comment2.target=void\ initialize(BoardLogicModel)
+comment3.params=BML
+comment3.target=void\ loadGameView(BoardLogicModel)
+comment4.params=x\ y\ type\ team
+comment4.target=void\ setPiece(int,\ int,\ java.lang.String,\ java.lang.String)
+comment5.params=type\ team
+comment5.target=javax.swing.ImageIcon\ getImage(java.lang.String,\ java.lang.String)
+comment6.params=BML
+comment6.target=void\ flipBoard(BoardLogicModel)
+comment7.params=x\ y
+comment7.target=void\ setTileGreen(int,\ int)
+comment8.params=x\ y
+comment8.target=void\ setTileRed(int,\ int)
+comment9.params=x\ y
+comment9.target=void\ setTileYellow(int,\ int)
+numComments=12

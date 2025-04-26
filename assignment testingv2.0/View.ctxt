@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=View
+comment0.text=\n\ This\ is\ the\ view\ model\n\n\ @author\ (Wan\ Abdul\ Rahman)\n\ The\ initial\ JFrame\ for\ all\ other\ panels.\n
+comment1.params=cntrl\ BML
+comment1.target=View(Controller,\ BoardLogicModel)
+comment2.params=
+comment2.target=void\ gameBoard()
+comment3.params=
+comment3.target=void\ Mainmenu()
+comment4.params=
+comment4.target=void\ NoMenu()
+comment5.params=
+comment5.target=void\ BoardSetting()
+comment6.params=team
+comment6.target=void\ winNotif(java.lang.String)
+comment6.text=\n\ \ \ \ public\ void\ removeGameBoard()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ super.remove(boardView);\n\ \ \ \ \ \ \ \ //super.revalidate();\n}
+comment7.params=
+comment7.target=void\ instruction()
+comment8.params=
+comment8.target=void\ doneSave()
+numComments=9

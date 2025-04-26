@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BoardSettings
+comment0.text=\n\n@author\ Agilan\ a/l\ Khali\ Thasan\n\n
+comment1.params=cntrl\ BML\ view
+comment1.target=BoardSettings(Controller,\ BoardLogicModel,\ View)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ BoardSettings\n
+comment2.params=turn
+comment2.target=void\ updateTurn(int)
+numComments=3

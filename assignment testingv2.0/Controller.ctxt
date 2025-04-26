@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Controller
+comment0.text=\n\ @author\ Agilan\ a/l\ Khali\ Thasan\n\ \ Wan\ Abdul\ Rahman\n\ \ \n\ Process\ the\ input\ and\ the\ main\ structure\ of\ controlling\ the\ game.\ \ \n\ \ \n
+comment1.params=
+comment1.target=Controller()
+comment2.params=x\ y\ bView\ BML\ view
+comment2.target=void\ select(int,\ int,\ BoardView,\ BoardLogicModel,\ View)
+comment3.params=BML\ v
+comment3.target=void\ startGame(BoardLogicModel,\ View)
+comment4.params=BML\ v
+comment4.target=void\ loadGame(BoardLogicModel,\ View)
+comment5.params=x\ y\ BML\ bView\ view
+comment5.target=void\ UpdateGame(int,\ int,\ BoardLogicModel,\ BoardView,\ View)
+comment6.params=v\ BML\ bView
+comment6.target=void\ updateTurn(View,\ BoardLogicModel,\ BoardView)
+numComments=7

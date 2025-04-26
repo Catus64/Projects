@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ram
+comment0.text=\n\ \ \ \ @author\ Wan\ Abdul\ Rahman\n\ \ \ \ Implementation\ of\ the\ Ram\ Piece\n
+comment1.params=x\ y\ team_select
+comment1.target=Ram(int,\ int,\ java.lang.String)
+comment2.params=BML
+comment2.target=void\ pieceMovement(BoardLogicModel)
+comment3.params=x\ y\ BML
+comment3.target=boolean\ ramFlip(int,\ int,\ BoardLogicModel)
+numComments=4

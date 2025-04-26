@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LoadFunction
+comment0.text=\n\ \ \ \ @author\ Wan\ Abdul\ Rahman\n
+comment1.params=
+comment1.target=LoadFunction()
+comment2.params=BML
+comment2.target=void\ loadGame(BoardLogicModel)
+numComments=3

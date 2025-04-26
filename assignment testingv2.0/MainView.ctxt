@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainView
+comment0.text=\n\ Write\ a\ description\ of\ class\ MainView\ here.\n\n\ @author\ Agilan\ a/l\ Khali\ Thasan\n\ \n
+comment1.params=cntrl\ BML\ v
+comment1.target=MainView(Controller,\ BoardLogicModel,\ View)
+comment1.text=\n\ This\ is\ a\ Component\ of\ View\ for\ the\ main\ menu\ aka\ initial\ start\ page\n
+comment2.params=cntrl\ BML\ v
+comment2.target=void\ Populate(Controller,\ BoardLogicModel,\ View)
+comment3.params=
+comment3.target=void\ clear()
+comment4.params=
+comment4.target=void\ rePopulate()
+numComments=5
